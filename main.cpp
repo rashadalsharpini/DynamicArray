@@ -32,7 +32,7 @@ int main() {
             break;
         }
         else
-            cout<<"what fuck"<<endl;
+            cout<<"not found"<<endl;
 
     }
     return 0;
