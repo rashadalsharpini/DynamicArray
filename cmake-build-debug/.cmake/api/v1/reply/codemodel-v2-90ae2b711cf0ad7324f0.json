@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray/cmake-build-debug",
-		"source" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray"
+		"build" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray/cmake-build-debug",
+		"source" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray"
 	},
 	"version" : 
 	{

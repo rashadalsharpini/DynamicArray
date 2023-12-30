@@ -155,7 +155,7 @@ void DynamicArray<T>::delete_nth(size_t index) {
         data[i] = data[i + 1];
     }
     size--;
-    if (size < 3 * capacity) {
+    if (size * 3 <  capacity) {
         resize();
     }
 }

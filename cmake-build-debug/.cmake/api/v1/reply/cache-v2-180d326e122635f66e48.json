@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray/cmake-build-debug"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray/cmake-build-debug"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray/cmake-build-debug"
 		},
 		{
 			"name" : "DynamicArray_IS_TOP_LEVEL",
@@ -1175,7 +1175,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/DynamicArray"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/DynamicArray"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
